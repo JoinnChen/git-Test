@@ -8,5 +8,9 @@ public class GitTest {
         System.out.println("111");
         System.out.println("2222" +
                 "123");
+//      $$$$$$$$$$$$$$$$$$$$$$$$$
+        System.out.println("1231");
+        System.out.println("1231");
+        System.out.println("1231");
     }
 }
